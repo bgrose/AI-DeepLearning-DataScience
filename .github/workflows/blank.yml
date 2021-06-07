@@ -1,0 +1,2 @@
+- name: Push Kaggle Kernel
+  uses: harupy/push-kaggle-kernel@v1.0.0
